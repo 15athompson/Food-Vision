@@ -5,6 +5,16 @@ shell scripting, and the inclusion of both command line and GUI interfaces
 contribute to its accessibility and usability. Future improvements aim to enhance
 the model's performance and user experience.
 
+A Python project focused on multiclass image classification, employing Convolutional Neural Networks (CNN). Using software and tools like Python, TensorFlow, Keras, Matplotlib, etc.
+
+Followed some good practice like:
+Modular structure for clean architecture/
+Separate Python scripts for the specific task
+Folder structure (separate folders for data, helper functions, and models)
+Automation to duck the boring part.
+Different methods to access models (CLI, GUI, etc)
+Save models and loss curves to keep track
+
 
 ## Tools and Software Used
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
